@@ -1,0 +1,17 @@
+﻿Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:01.2999002.
+Generating the model took 00:00:02.5919613.
+Added the connection string to the App.Config file.
+Writing the .edmx file took 00:00:00.0014467.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:00.7705204.
+Generating the model took 00:00:02.2528561.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:00.7799346.
+Generating the model took 00:00:02.1755162.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:00.8697550.
+Generating the model took 00:00:02.4422821.
+Generated model file: Model1.edmx.
+Loading metadata from the database took 00:00:00.6494422.
+Generating the model took 00:00:00.5167854.
